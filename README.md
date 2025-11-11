@@ -25,10 +25,18 @@
 ---
 
 ### 📊 Estadísticas de GitHub
+### 📈 Mis commits y actividad
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuusuario&theme=tokyonight" alt="Racha de contribuciones" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Estadísticas de GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tuusuario&theme=tokyo-night&area=true" alt="Gráfico de actividad" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tuusuario&theme=radical&hide_border=true" alt="Racha de commits" />
 </p>
 
 ---
