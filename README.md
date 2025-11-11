@@ -1,46 +1,62 @@
-# 👋 ¡Hola! Soy César
+<!-- Encabezado animado -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=¡Hola!+👋+Soy+Tu+Nombre;Desarrollador+Full+Stack+💻;Apasionado+por+la+IA+🤖;Bienvenido+a+mi+perfil+✨" alt="Typing SVG" />
+</h1>
 
-💻 Desarrollador apasionado por la tecnología, el diseño y el aprendizaje continuo.  
-Me gusta crear aplicaciones y páginas web limpias, funcionales y con una buena experiencia de usuario.
-
----
-
-## 🚀 Sobre mí
-
-- 🔭 Actualmente trabajando en proyectos personales de **React Native** y **Node.js**  
-- 🌱 Aprendiendo **TypeScript**, **UI/UX design** y **automatización con APIs**  
-- 👯 Busco colaborar en proyectos **open source** o startups tecnológicas  
-- 💬 Pregúntame sobre **JavaScript, React, diseño de interfaces o bases de datos**  
-- ⚡ Dato curioso: me encanta el café ☕ y los atardeceres 🌇  
-
----
-
-## 🛠️ Tecnologías y herramientas
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode,figma,mysql" />
+<!-- Badges -->
+<p align="center">
+  <a href="https://github.com/tuusuario"><img src="https://img.shields.io/github/followers/tuusuario?label=Seguidores&style=social" alt="Seguidores de GitHub"></a>
+  <a href="https://twitter.com/tuusuario"><img src="https://img.shields.io/twitter/follow/tuusuario?style=social" alt="Twitter"></a>
 </p>
 
 ---
 
-## 🎨 Estilo & Diseño
+### 🌟 Sobre mí
 
-El color principal que uso en mis proyectos:  
-🎨 `rgb(93, 173, 236)` → ![#5DADec](https://via.placeholder.com/15/5DADec/000000?text=+)
-
----
-
-## 📫 Cómo contactarme
-
-- ✉️ **Email:** [tuemail@ejemplo.com](mailto:tuemail@ejemplo.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)  
-- 🌐 **Portafolio:** [tuportafolio.com](https://tuportafolio.com)
+💡 Me encanta crear cosas nuevas, aprender tecnologías modernas y resolver problemas reales con código.  
+🚀 Actualmente trabajando en proyectos con **JavaScript**, **React**, **Node.js** y **Python**.  
+🎯 Objetivo 2025: contribuir a proyectos de **código abierto** y lanzar una app propia.  
 
 ---
 
-## 🧠 Frase que me inspira
-> “El código es poesía cuando resuelve problemas con elegancia.”
+### 🧠 Tecnologías que uso
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,python,html,css,tailwind,mongodb,git,github,vscode" />
+</p>
 
 ---
 
-⭐ *Si te gusta mi trabajo, no dudes en seguirme o dar una estrella a mis repositorios.*  
+### 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuusuario&theme=tokyonight" alt="Racha de contribuciones" height="160px"/>
+</p>
+
+---
+
+### 🎵 Un poco de estilo
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" alt="Programando" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding" />
+</p>
+
+---
+
+### 💬 Conecta conmigo
+
+<p align="center">
+  <a href="https://linkedin.com/in/tuusuario" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:tucorreo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://twitter.com/tuusuario"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
+
+---
+
+<h3 align="center">✨ Gracias por visitar mi perfil ✨</h3>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
