@@ -1,7 +1,4 @@
 <!-- Encabezado animado -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=¡Hola!+👋+Soy+Tu+Nombre;Desarrollador+Full+Stack+💻;Apasionado+por+la+IA+🤖;Bienvenido+a+mi+perfil+✨" alt="Typing SVG" />
-</h1>
 
 <!-- Badges -->
 <p align="center">
