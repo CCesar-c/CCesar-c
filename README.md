@@ -1,6 +1,4 @@
-<!-- Encabezado -->
-- name: Metrics embed
-  uses: lowlighter/metrics@v3.34
+
 <h1 align="center">👋 Hola, soy Cesar</h1>
 
 <p align="center">
@@ -94,45 +92,3 @@
 ---
 
 <h3 align="center">✨ Gracias por visitar mi perfil ✨</h3>
-
-<!--examples-->
-```yaml
-name: Favorites anime and currently watching
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.anilist.svg
-  token: NOT_NEEDED
-  base: ""
-  plugin_anilist: yes
-  plugin_anilist_medias: anime
-  plugin_anilist_sections: favorites, watching
-  plugin_anilist_limit: 1
-
-```
-```yaml
-name: Favorites manga and currently reading
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.anilist.manga.svg
-  token: NOT_NEEDED
-  base: ""
-  plugin_anilist: yes
-  plugin_anilist_medias: manga
-  plugin_anilist_sections: favorites, reading
-  plugin_anilist_limit: 1
-
-```
-```yaml
-name: Favorites characters
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.anilist.characters.svg
-  token: NOT_NEEDED
-  base: ""
-  plugin_anilist: yes
-  plugin_anilist_sections: characters
-  plugin_anilist_limit_characters: 64
-
-```
-<!--/examples-->
-
