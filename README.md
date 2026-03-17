@@ -3,7 +3,6 @@
 <!-- Badges -->
 <p align="center">
   <a href="https://github.com/CCesar-c"><img src="https://img.shields.io/github/followers/CCesar-c?label=Seguidores&style=social" alt="Seguidores de GitHub"></a>
-  <a href="https://twitter.com/CCesar-c"><img src="https://img.shields.io/twitter/follow/CCesar-c?style=social" alt="Twitter"></a>
 </p>
 
 ---
