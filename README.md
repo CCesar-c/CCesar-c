@@ -1,4 +1,6 @@
 <!-- Encabezado -->
+- name: Metrics embed
+  uses: lowlighter/metrics@v3.34
 <h1 align="center">👋 Hola, soy Cesar</h1>
 
 <p align="center">
