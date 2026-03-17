@@ -131,7 +131,7 @@ with:
   base: ""
   plugin_anilist: yes
   plugin_anilist_sections: characters
-  plugin_anilist_limit_characters: 22
+  plugin_anilist_limit_characters: 64
 
 ```
 <!--/examples-->
